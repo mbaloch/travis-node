@@ -1,0 +1,14 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
